@@ -1,5 +1,5 @@
-## Links 
-# Caracters Section
+# Links 
+## Caracters Section
 - https://static.wikia.nocookie.net/disney/images/4/47/The-Owl-House-logo.png/revision/latest?cb=20210808144520&path-prefix=es
 - https://static.wikia.nocookie.net/theowlhouse/images/c/c3/Luz_Noceda_%28Grom%29.png/revision/latest/scale-to-width-down/198?cb=20201026203637&path-prefix=es
 - https://img.wattpad.com/71821ba3354e3df3e922e636b6efab115b0247e9/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f7052554d7577726b586f37396a413d3d2d313130313831383730302e313639326438643331353635356566343531353136383439303931302e706e67?s=fit&w=720&h=720
@@ -14,7 +14,7 @@
 - https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b41ebc74-a9a7-41c3-98c6-4e68c588fca9/de43oey-afc7324c-79e9-47ac-8d7e-e108d9a5cb83.png/v1/fill/w_1280,h_1538,strp/hooty_talk_talk_by_captainedwardteague_de43oey-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTUzOCIsInBhdGgiOiJcL2ZcL2I0MWViYzc0LWE5YTctNDFjMy05OGM2LTRlNjhjNTg4ZmNhOVwvZGU0M29leS1hZmM3MzI0Yy03OWU5LTQ3YWMtOGQ3ZS1lMTA4ZDlhNWNiODMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.CM6BteEHMKfJQHA9Sj5071snw5008sS_yMVzbhoKn9Y
 - https://static.wikia.nocookie.net/theowlhouse/images/4/41/Emperador_Belos_%28render%29.png/revision/latest?cb=20210518144650&path-prefix=es
 - https://static.wikia.nocookie.net/the-owl-house/images/5/56/Collector_Profile.png/revision/latest?cb=20220622181946
-# Covens section 
+## Covens section 
 - https://ih1.redbubble.net/image.1521690793.4205/st,small,507x507-pad,600x600,f8f8f8.jpg
 - https://ih1.redbubble.net/image.1521690793.4205/st,small,507x507-pad,600x600,f8f8f8.jpg
 - https://ih1.redbubble.net/image.1521693968.4274/st,small,507x507-pad,600x600,f8f8f8.jpg
@@ -24,9 +24,9 @@
 - https://ih1.redbubble.net/image.1521716746.4751/st,small,507x507-pad,600x600,f8f8f8.jpg
 - https://ih1.redbubble.net/image.1521703192.4463/st,small,507x507-pad,600x600,f8f8f8.jpg
 - https://ih1.redbubble.net/image.1521726705.4958/st,small,507x507-pad,600x600,f8f8f8.jpg
-# Pagina para ver la serie
+## Pagina para ver la serie
 - https://www.theowlclub.net/
-# Imnagenes de las ventanas Caracteres 
+## Imagenes de las ventanas Caracteres 
 - https://64.media.tumblr.com/5d2eb59f00caac6e79002f7cc23e7acd/2ca54622d8dec51a-09/s250x400/881b7c78b0dd6071b2f0bbcd79b9ffdf9cbc01c7.png
 - https://ih1.redbubble.net/image.2380454364.9405/st,small,845x845-pad,1000x1000,f8f8f8.jpg
 - https://64.media.tumblr.com/41e678aec8c348bb74197279fe5a7010/3e46b3a7bd890c51-97/s540x810/28e7ca2809aa4ee4fbcb9ec0b6c54557ef395222.pnj
@@ -38,7 +38,7 @@
 - https://escriturafeminista.files.wordpress.com/2020/08/hooty-libros.png?w=1024
 - https://img.wattpad.com/cover/295199236-256-k854615.jpg
 - https://static.wikia.nocookie.net/cdaa2fab-1a73-4e3e-a4ac-5f89e2d0214b/scale-to-width/755
-# Imagenes de las ventanas covens 
+## Imagenes de las ventanas covens 
 - https://ih1.redbubble.net/image.2767303395.5337/pp,504x498-pad,600x600,f8f8f8.jpg
 - https://assets.mycast.io/actor_images/actor-eberwolf-414059_large.jpg?1650895069
 - https://ih1.redbubble.net/image.2619101379.4438/st,small,507x507-pad,600x600,f8f8f8.jpg
